@@ -1,8 +1,8 @@
 ## Oiii eu sou a Marcela R. dos Santos, estudante de tecnologia!
 <div align="center">
  <a href="https://github.com/marcelardossantos", >
- <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=marcelardossantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img altura="100em" src="https://github-readme-stats.vercel.app/api?username=marcelardossantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img altura="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Marcela-Js" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
