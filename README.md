@@ -1,9 +1,10 @@
 ## Oiii eu sou a Marcela R. dos Santos, estudante de tecnologia!
-<div align="center">
- <a href="https://github.com/marcelardossantos", >
- <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=marcelardossantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center"> 
+  <a href="https://github.com/marcelardossantos">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelardossantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact&langs_count=7&theme=tokyonight"/>   
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="marcela-Java" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="marcela-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
