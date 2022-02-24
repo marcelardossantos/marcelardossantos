@@ -5,16 +5,16 @@
  <img altura="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Marcela-Js" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Marcela-Ts" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Marcela-React" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img src="center" alt="Marcela-React" altura="30" largura="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img src="center" alt="Marcela-React" altura="30" largura="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- <img align="center" alt="Marcela-HTML" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Marcela-CSS" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Marcela-Python" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Marcela-Csharp" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Marcela-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/816111682887221258/946421719474765824/download20220204113844.png">
+ <img align="center" alt="Marcela-Js" altura="10" largura="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Marcela-Ts" altura="10" largura="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Marcela-React" altura="10" largura="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img src="center" alt="Marcela-React" altura="10" largura="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img src="center" alt="Marcela-React" altura="10" largura="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img align="center" alt="Marcela-HTML" altura="10" largura="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Marcela-CSS" altura="10" largura="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Marcela-Python" altura="10" largura="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Marcela-Csharp" altura="20" largura="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Marcela-pic" height="100" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/816111682887221258/946421719474765824/download20220204113844.png">
 </div>
   
 ##
