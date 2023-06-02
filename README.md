@@ -6,15 +6,18 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="marcela-Java" height="55" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="marcela-Mysql" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img align="center" alt="marcela-angularjs" height="85" width="95"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
+  <img align="center" alt="marcela-vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
+  <img align="center" alt="marcela-angularjs" height="95" width="105"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
+  <img align="center" alt="marcela-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="marcela-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="marcela-Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="marcela-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="marcela-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="marcela-spring" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="marcela-Kotlin" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="marcela-intellij" height="105" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+  <img align="center" alt="marcela-spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="marcela-Kotlin" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+  <img align="center" alt="marcela-Java" height="55" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="marcela-Mysql" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+  <img align="center" alt="marcela-postgresql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="marcela-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="marcela-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="marcela-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/816111682887221258/946421719474765824/download20220204113844.png">
