@@ -21,7 +21,6 @@
   <img align="center" alt="marcela-postgresql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="marcela-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="marcela-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="marcela-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/816111682887221258/946421719474765824/download20220204113844.png">
 </div>
   
 ##
