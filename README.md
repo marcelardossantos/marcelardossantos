@@ -1,6 +1,23 @@
-## Oiii eu sou a Marcela R. dos Santos, estudante de tecnologia!
+## Olá! Eu sou Marcela R. dos Santos 👋
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact)
+🎓 Graduada em Sistemas de Informação  
+📚 MBA em Data Science, Inteligência Artificial e Analytics  
+
+💻 Desenvolvedora com experiência em desenvolvimento web e mobile.
+
+Interesses:  
+- Engenharia de software  
+- Ciência de dados  
+- Tecnologia para impacto social
+
+### 📌 Projeto em destaque
+
+**Rua Viva**
+
+Plataforma desenvolvida em Flutter para registro e mapeamento de pessoas em situação de vulnerabilidade social.
+
+Tecnologias utilizadas:
+Flutter • Dart • Hive • Google Maps
 
 <div style="display: inline_block"><br>
   <img align="center" alt="marcela-vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
