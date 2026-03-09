@@ -1,4 +1,6 @@
-## Olá! Eu sou Marcela R. dos Santos 👋
+Olá! Eu sou Marcela R. dos Santos 👋
+
+Desenvolvedora | Software Engineering | Data Science
 
 🎓 Graduada em Sistemas de Informação  
 📚 MBA em Data Science, Inteligência Artificial e Analytics  
