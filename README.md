@@ -1,7 +1,6 @@
 ## Oiii eu sou a Marcela R. dos Santos, estudante de tecnologia!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact&langs_count=8&theme=radical)
-
  
 <div style="display: inline_block"><br>
   <img align="center" alt="marcela-vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
