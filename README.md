@@ -18,6 +18,12 @@ Plataforma desenvolvida em Flutter para registro e mapeamento de pessoas em situ
 
 Tecnologias utilizadas: Flutter • Dart • Hive • Google Maps
 
+### 📊 Estatísticas GitHub
+
+![Marcela GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelardossantos&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="marcela-vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
   <img align="center" alt="marcela-angularjs" height="95" width="105"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
