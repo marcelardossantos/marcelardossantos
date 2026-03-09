@@ -20,7 +20,7 @@ Tecnologias utilizadas: Flutter • Dart • Hive • Google Maps
 
 ### 📊 Estatísticas GitHub
 
-![Marcela GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelardossantos&show_icons=true&theme=github_dark)
+![Marcela GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcelardossantos&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelardossantos&layout=compact)
 
